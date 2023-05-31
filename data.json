@@ -1,0 +1,68 @@
+{
+  "Products": [
+    {
+      "src": "assets/images/p1.png",
+      "price": 12.5,
+      "quantity": 15,
+      "name": "Pure Honey",
+      "desc": "Blueberries are native to North America and honey bees love when they are in bloom. The honey they produce is a medium amber color with a sweet buttery taste and more than a hint of blueberry. It is the ultimate taste of summer!",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "src": "assets/images/p2.png",
+      "price": 10.5,
+      "quantity": 10,
+      "name": "Honey Natural",
+      "desc": "Tastes great on toast, with a charcuterie board or in a simple cup of tea!,Most of the spreads available in the market contain only a tiny percentage of the actual fruit they claim to have."
+    },
+    {
+      "id": 3,
+      "src": "assets/images/p3.png",
+      "price": 15,
+      "quantity": 10,
+      "name": "Blueberry Honey",
+      "desc": "All of our Flavoured Creamed Honey’s come from ingredients we source ourselves that add delightful flavours to our already delicious Cedarwood Creamed Honey."
+    },
+    {
+      "id": 4,
+      "src": "assets/images/p4.png",
+      "price": 12,
+      "quantity": 10,
+      "name": "Blueberry Blossom Honey",
+      "desc": "Our Blueberry Blossom Honey is pure, raw, and u name nded, and may crystalize as a result. This is to be expected of natural honey and does not impact the usability of the product"
+    },
+    {
+      "src": "assets/images/p5.png",
+      "price": 13,
+      "quantity": 8,
+      "name": "Honey Mango Fruit Spread",
+      "desc": "This delicious preserve uses pure honey as a sweetener and the preserve base. Pulp from high grade ripe tropical mangoes is added to honey to create a preserve that is golden, glossy and smooth. It is delicious, full of natural flavours and easy to spread.",
+      "id": 5
+    },
+    {
+      "src": "assets/images/p6.png",
+      "price": 11.5,
+      "quantity": 10,
+      "name": "Honey Blueberry Spread",
+      "desc": "Fruit spreads, more commonly called as jams enjoy almost a permanent slot on our breakfast menus. They are soft, juicy, delicious, easy to apply and make anything delicious, instantly. The only thing they lack is the health.",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "src": "assets/images/p7.png",
+      "price": 14.25,
+      "quantity": 10,
+      "name": "Wild Blueberry",
+      "desc": "Delight awaits in every drop of our tantalizing Wild Blueberry. Let blueberry-infused water, fragrant herbs and pure, golden honey transport your taste buds to a lush, sun-kissed countrys ide where temptation grows wild and splendor comes by the sip."
+    },
+    {
+      "id": 8,
+      "src": "assets/images/p8.png",
+      "price": 13,
+      "quantity": 10,
+      "name": "Orange Blossom Honey",
+      "desc": "In early May, when the weather turns warmer, orange trees come into bloom. These blossoms have a wonderful perfume which calls out to nearby honey bees.The beehives were placed in the groves a few weeks earlier to pollinate the citrus crop"
+    }
+  ]
+}
